@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hruthi19
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Web development and Compettitve programming
+- 👀 I’m interested in Web Development and Artificial Intelligence
+- 🌱 I’m currently learning Web development and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- hruthimuggalla@gmail.com
 
