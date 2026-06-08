@@ -14,17 +14,28 @@ I believe the best way to learn is by building, experimenting, and contributing 
 ### 🛠️ Tech Stack
 
 **Languages:** C++, Python, JavaScript, TypeScript, Java
+
 **Frontend:** React, Next.js, Angular
+
 **Backend:** Node.js, Express, FastAPI
+
 **Databases:** PostgreSQL, MongoDB, Redis, SQLite
+
 **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GitHub Actions
+
 **AI/ML:** PyTorch, Scikit-learn, Hugging Face, LangChain, LangGraph, RAG
 
+
 🔭 **Currently Building:** AI-powered full-stack applications and scalable backend systems
+
 🌱 **Currently Learning:** LLMs, Agentic AI, Distributed Systems & Cloud Architecture
+
 👯 **Looking to Collaborate On:** Open Source, AI, and Full Stack Projects
+
 💬 **Ask Me About:** Web Development, System Design, AI Integration, or Tech in General
+
 📫 **Reach Me:** [hruthi.muggalla2002@gmail.com](mailto:hruthi.muggalla2002@gmail.com)
+
 ⚡ **Fun Fact:** I love movies and K-dramas, and I treat debugging like solving detective mysteries. 🍿
 
 
