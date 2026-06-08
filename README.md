@@ -27,12 +27,12 @@ I believe the best way to learn is by building, experimenting, and contributing 
 
 <br>
 
--🔭 **Currently Building:** AI-powered full-stack applications and scalable backend systems
--🌱 **Currently Learning:** LLMs, Agentic AI, Distributed Systems & Cloud Architecture
--👯 **Looking to Collaborate On:** Open Source, AI, and Full Stack Projects
--💬 **Ask Me About:** Web Development, System Design, AI Integration, or Tech in General
--📫 **Reach Me:** [hruthi.muggalla2002@gmail.com](mailto:hruthi.muggalla2002@gmail.com)
--⚡ **Fun Fact:** I love movies and K-dramas, and I treat debugging like solving detective mysteries. 🍿
+- 🔭 **Currently Building:** AI-powered full-stack applications and scalable backend systems
+- 🌱 **Currently Learning:** LLMs, Agentic AI, Distributed Systems & Cloud Architecture
+- 👯 **Looking to Collaborate On:** Open Source, AI, and Full Stack Projects
+- 💬 **Ask Me About:** Web Development, System Design, AI Integration, or Tech in General
+- 📫 **Reach Me:** [hruthi.muggalla2002@gmail.com](mailto:hruthi.muggalla2002@gmail.com)
+- ⚡ **Fun Fact:** I love movies and K-dramas, and I treat debugging like solving detective mysteries. 🍿
 
 
  
