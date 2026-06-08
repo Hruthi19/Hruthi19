@@ -1,26 +1,32 @@
-### Hi there 👋, my name is Hruthi Muggalla
-#### I am a Full Stack Web Developer and a newbie AI enthusiast
-I am currently pursuing my Master’s in Computer Science at the University of Georgia, Athens, USA and hold a B.Tech in Computer Science from NIT Rourkela. I'm deeply passionate about technology and thrive on exploring new trends—especially in the world of AI.
 
-I am also eager to dive deeper into open source communities, as they offer an incredible opportunity to collaborate with developers from diverse technical backgrounds and contribute to impactful, real-world projects.
+# Hi there 👋 I'm Hruthi Muggalla
 
-Let's connect and build some amazing projects together!
+💻 **Full Stack Software Engineer** | 🤖 **AI Enthusiast** | 🚀 **Building scalable products with modern technologies**
+
+I recently completed my **Master's in Computer Science at the University of Georgia (USA)** after completing my **B.Tech in Computer Science from NIT Rourkela**.
+
+I enjoy building end-to-end applications that combine **clean system design, scalable backend architecture, and intuitive user experiences**. My interests span **Full Stack Development, Distributed Systems, Cloud Technologies, and Applied AI**, and I'm constantly exploring ways to integrate AI into real-world software products.
+
+I have industry experience working with **React, Angular, Node.js, TypeScript, Python, Docker, Kubernetes, Redis, and REST APIs**, and I'm currently expanding my expertise in **LLMs, RAG systems, LangChain, and Machine Learning**.
+
+I believe the best way to learn is by building, experimenting, and contributing to impactful open-source projects.
+
+### 🛠️ Tech Stack
+
+**Languages:** C++, Python, JavaScript, TypeScript, Java
+**Frontend:** React, Next.js, Angular
+**Backend:** Node.js, Express, FastAPI
+**Databases:** PostgreSQL, MongoDB, Redis, SQLite
+**DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GitHub Actions
+**AI/ML:** PyTorch, Scikit-learn, Hugging Face, LangChain, LangGraph, RAG
+
+🔭 **Currently Building:** AI-powered full-stack applications and scalable backend systems
+🌱 **Currently Learning:** LLMs, Agentic AI, Distributed Systems & Cloud Architecture
+👯 **Looking to Collaborate On:** Open Source, AI, and Full Stack Projects
+💬 **Ask Me About:** Web Development, System Design, AI Integration, or Tech in General
+📫 **Reach Me:** [hruthi.muggalla2002@gmail.com](mailto:hruthi.muggalla2002@gmail.com)
+⚡ **Fun Fact:** I love movies and K-dramas, and I treat debugging like solving detective mysteries. 🍿
 
 
-Skills: C++ | HTML | CSS | JAVASCRIPT| TYPESCRIPT | REACT | NODE | ANGULAR
-
-- 🔭 I’m currently working on Creating various websites and integrating AI into it.
-- 🌱 I’m currently learning Machine learning and Python 
-- 🤔 I’m looking for help with AI projects and LLMs 
-- 💬 Ask me about Tech, Web development, Movies, Kdramas 
-- 📫 How to reach me: hruthimuggalla@gmail.com 
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am a Cinephile 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hruthi19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hruthi-muggalla-114967200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_.hruthi._/?hl=en/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hruthi19)](https://github.com/anuraghazra/github-readme-stats)
- 
  
 
